@@ -13,13 +13,12 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="Cesar Jimenez" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
+        <AboutSection sectionId="about" heading="About me" />
+        <InterestsSection sectionId="details" heading="Skills" />
+        <ProjectsSection sectionId="projects" heading="My projects" />
         <ContactSection sectionId="github" heading="Issues?" />
       </Page>
     </>
