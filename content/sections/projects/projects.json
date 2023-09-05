@@ -5,37 +5,70 @@
       "category": "Object Oriented Programming",
       "title": "Earthquake monitoring system",
       "description": "Developed and implemented a data tracking system for earthquakes in Java. The system is able to track the location, magnitude, and time of earthquakes. The system also has the ability to track the number of earthquakes that occur in a given time period and notify users via email.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "tags": ["Java", "Email Notifications", "Object Oriented Programming"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/earthquakes.png",
+        "alt": "Earthquake monitoring system interface",
+        "linkTo": "https://github.com/TheCsarbeat/Proyecto-1-POO"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/TheCsarbeat/Proyecto-1-POO"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Distributed Databases",
+      "title": "Supermarket shopping platform",
+      "description": "Developed and implemented a distributed database system for a supermarket shopping platform across four different servers in different countries. The system is able to generate reports on the most popular products, the most popular brands, and the most popular categories.",
+      "tags": ["Distributed Databases", "Horizontal Fragmentation", "ASP.NET"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/TheCsarbeat/BD-II-Project"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/TheCsarbeat/BD-II-Project"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Development",
+      "title": "Real state website",
+      "description": "Designed and programmed a real state website using HTML, CSS, and JavaScript. The website is able to display information about the properties and the company. The website also has a contact form that sends an email to the company.",
+      "tags": ["JavaScript", "HTML", "CSS", "Web Development"],
+      "image": {
+        "src": "../../images/realstate.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://bienesraicesdelujott.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://bienesraicesdelujott.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Web Development",
+      "title": "Coffee blog website",
+      "description": "Designed and programmed a coffee blog website using HTML, CSS, and JavaScript. The blog contains information about types of coffee, tips and offers workshops. As well as a contact form that sends an email to the company.",
+      "tags": ["JavaScript", "HTML", "CSS", "Web Development"],
+      "image": {
+        "src": "../../images/coffeeblog.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://blogcafecite.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://blogcafecite.netlify.app/"
         }
       ]
     }
@@ -43,6 +76,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/TheCsarbeat?tab=repositories"
   }
 }
