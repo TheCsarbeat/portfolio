@@ -2,9 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "category": "Object Oriented Programming",
+      "title": "Earthquake monitoring system",
+      "description": "Developed and implemented a data tracking system for earthquakes in Java. The system is able to track the location, magnitude, and time of earthquakes. The system also has the ability to track the number of earthquakes that occur in a given time period and notify users via email.",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
