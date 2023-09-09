@@ -55,6 +55,13 @@
         "src": "../../images/bootstrap.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Azure",
+      "image": {
+        "src": "../../images/azure.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
