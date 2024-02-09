@@ -2,19 +2,19 @@
   "projects": [
     {
       "visible": true,
-      "category": "Object Oriented Programming",
-      "title": "Earthquake monitoring system",
-      "description": "Developed and implemented a data tracking system for earthquakes in Java. The system is able to track the location, magnitude, and time of earthquakes. The system also has the ability to track the number of earthquakes that occur in a given time period and notify users via email.",
-      "tags": ["Java", "Email Notifications", "Object Oriented Programming"],
+      "category": "Web Development",
+      "title": "Inventory management system",
+      "description": "Designed and implemented a customized inventory system for a small paper product business, addressing their specific needs in operations, billing, and reporting, as well as aligning with ISO/IEC 25010 standards. Through meticulous requirement gathering and architectural design, documented in IEEE 829, SRS, and SAD.",
+      "tags": ["MSSQL", "MVC", "ASP.NET"],
       "image": {
-        "src": "../../images/earthquakes.png",
-        "alt": "Earthquake monitoring system interface",
-        "linkTo": "https://github.com/TheCsarbeat/Proyecto-1-POO"
+        "src": "../../images/manitos.png",
+        "alt": "Extendable Layout",
+        "linkTo": "https://github.com/Manitos-Maravillosas/Inventario"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/TheCsarbeat/Proyecto-1-POO"
+          "url": "https://github.com/Manitos-Maravillosas/Inventario"
         }
       ]
     },
@@ -33,6 +33,24 @@
         {
           "type": "github",
           "url": "https://github.com/TheCsarbeat/BD-II-Project"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Object Oriented Programming",
+      "title": "Earthquake monitoring system",
+      "description": "Developed and implemented a data tracking system for earthquakes in Java. The system is able to track the location, magnitude, and time of earthquakes. The system also has the ability to track the number of earthquakes that occur in a given time period and notify users via email.",
+      "tags": ["Java", "Email Notifications", "Object Oriented Programming"],
+      "image": {
+        "src": "../../images/earthquakes.png",
+        "alt": "Earthquake monitoring system interface",
+        "linkTo": "https://github.com/TheCsarbeat/Proyecto-1-POO"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/TheCsarbeat/Proyecto-1-POO"
         }
       ]
     },
